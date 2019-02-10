@@ -1,0 +1,66 @@
+.head1
+{
+  text-align: right;
+  font: bolder 50px garamond, serif, georgia ;
+}
+
+.head2
+{
+   text-align: right;
+   font: italic 35px garamond, serif, georgia;
+}
+
+.image1
+{
+   width: 200px;
+   height: 75px;
+   margin-top: 20px;
+}
+
+.centerImage
+{
+   width: 100%;
+   border:2px solid black;
+   max-width: 100%;
+}
+
+.code
+{
+   text-align: center;
+   font: 25px garamond, serif, georgia;
+}
+
+.Images
+{
+   width: 200px !important;
+   height: 150px;
+   max-width: 100%;
+   border:2px solid black;
+}
+
+.line
+{
+   width: 100%;
+   height : 4px;
+   background-color: #ccc;
+}
+
+.image-container
+{
+   text-align: center;
+}
+
+.top-row
+{
+   margin-top: 30px;
+}
+
+.heading
+{
+   font-family: garamond, serif, georgia;
+}
+
+.photo-Credits
+{
+   font: italic bolder 15px garamond, serif, georgia;
+}
