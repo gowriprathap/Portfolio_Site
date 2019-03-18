@@ -1,2 +1,2 @@
-# Udacity_Gowri_Prathap
-Udacity Front End Web Developer Project by Gowri Prathap
+# Udacity Portfolio Site
+Udacity Front End Web Developer Project - build a portfolio site by Gowri Prathap
